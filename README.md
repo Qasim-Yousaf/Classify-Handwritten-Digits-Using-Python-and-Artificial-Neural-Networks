@@ -51,5 +51,3 @@ This project implements an Artificial Neural Network (ANN) to classify handwritt
 - **Classes**: 10 (digits 0-9)
 - **Format**: Grayscale images with pixel values 0-255
 - **Data Source**: [MNIST Database](http://yann.lecun.com/exdb/mnist/)
-
-### Data Characteristics
